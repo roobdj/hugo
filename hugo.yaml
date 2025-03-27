@@ -18,12 +18,12 @@ params:
     facebook: "https://facebook.com/example"
     twitter: "https://twitter.com/example"
     email: "contact@example.org"
-    name: "The Roobin Groop"
+    name: "The Rubin Groop"
     location: New York
     phone: (999) 999-9999
     hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
   color: "#4f46e5"
-  copyright: "Copyright &copy; 2025 The Roobin Group.
+  copyright: "Copyright &copy; 2025 The Rubin Group.
     All Rights Reserved."
   footer:
     - title: About
