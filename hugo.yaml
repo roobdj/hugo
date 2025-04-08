@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: New Hugo Site 2025-03-26
+title: New Hugo Site 2025-04-07
 theme: Eclectic
 
 # Adding per https://gohugo.io/host-and-deploy/host-on-github-pages/ Step 5.
@@ -29,7 +29,7 @@ params:
     phone: (999) 999-9999
     hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
   color: "#4f46e5"
-  copyright: "Copyright &copy; 2025 The Rubin Group.
+  copyright: "Copyright &copy; 2025 The Hugo Group.
     All Rights Reserved."
   footer:
     - title: About
