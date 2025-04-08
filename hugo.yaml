@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Rare Brood New Hugo Site 2025-03-26
+title: New Hugo Site 2025-03-26
 theme: Eclectic
 
 # Adding per https://gohugo.io/host-and-deploy/host-on-github-pages/ Step 5.
@@ -24,7 +24,7 @@ params:
     facebook: "https://facebook.com/example"
     twitter: "https://twitter.com/example"
     email: "contact@example.org"
-    name: "The Rubin Groop"
+    name: "The Hugo Groop"
     location: New York
     phone: (999) 999-9999
     hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
