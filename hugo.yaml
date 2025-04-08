@@ -8,6 +8,12 @@ caches:
   images:
     dir: :cacheDir/images
 
+# Inserting on Claude's advice; also listing 3.1 Hugo in Action.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 menu:
   main:
     - identifier: about

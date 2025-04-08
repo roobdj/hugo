@@ -14,7 +14,7 @@ Please read this privacy notice carefully, as it will help you make informed dec
 
 ### Information automatically collected
 
-***Some information – such as IP address and/or browser, and device characteristics – is collected automatically when you visit our Services***.
+**_Some information – such as IP address and/or browser, and device characteristics – is collected automatically when you visit our Services_**.
 
 We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser, and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services and for our internal analytics and reporting purposes.
 
@@ -22,7 +22,7 @@ Like many businesses, we also collect information through cookies and similar te
 
 ## HOW DO WE USE YOUR INFORMATION?
 
-***We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.***
+**_We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent._**
 
 We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
